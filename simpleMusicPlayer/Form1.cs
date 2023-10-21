@@ -85,9 +85,9 @@ namespace simpleMusicPlayer
             };
             var Album1tsongs = new List<string>()
             {
-                "GreenRoom.wav",
-                "Jennifer'sBody.wav",
-                "FightingMyDemons.wav",
+                "GreenRoom.wav", // work
+                "Jennifer'sBody.wav", // work
+                "FightingMyDemons.wav", // work
                 "4.\t\"Singapore\"",
                 "5.\t\"Lose It\"",
                 "6.\t\"Hardcore\"",
